@@ -1,4 +1,4 @@
-from codes import characters
+from base116676.codes import characters
 from itertools import islice
 reverse_characters = {c: i for i, c in enumerate(characters)}
 
